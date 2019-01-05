@@ -1,4 +1,4 @@
-# googlenewsapi
+# Google News Analysis using NLTK for banking products
 
 API’s are live now! They are updated on daily basis. Let us talk about google news. How often does a person check google news. Its updated every nanosecond or less than that. Google has always been the pioneer in delivering diverse news blogs to all its readers from ages. Very few percentage of people look at specific papers (or) blogs. So! What is cooking here?
 
